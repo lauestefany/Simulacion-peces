@@ -105,3 +105,7 @@ namespace EstanqueDePeces
         }
     }
 }
+
+
+// Este código fue desarrollado con apoyo de Inteligencia Artificial (ChatGPT)
+// para comprender, estructurar y corregir la lógica de la simulación.
